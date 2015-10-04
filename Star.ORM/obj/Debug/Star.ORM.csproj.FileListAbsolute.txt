@@ -1,0 +1,10 @@
+G:\Benefit\Star.ORM\bin\Debug\Star.ORM.dll.config
+G:\Benefit\Star.ORM\bin\Debug\Star.ORM.dll
+G:\Benefit\Star.ORM\bin\Debug\Star.ORM.pdb
+G:\Benefit\Star.ORM\bin\Debug\EntityFramework.dll
+G:\Benefit\Star.ORM\bin\Debug\EntityFramework.SqlServer.dll
+G:\Benefit\Star.ORM\bin\Debug\EntityFramework.xml
+G:\Benefit\Star.ORM\bin\Debug\EntityFramework.SqlServer.xml
+G:\Benefit\Star.ORM\obj\Debug\Star.ORM.csprojResolveAssemblyReference.cache
+G:\Benefit\Star.ORM\obj\Debug\Star.ORM.dll
+G:\Benefit\Star.ORM\obj\Debug\Star.ORM.pdb

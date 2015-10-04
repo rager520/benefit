@@ -1,0 +1,6 @@
+G:\Benefit\Web\bin\Web.dll.config
+G:\Benefit\Web\bin\Web.dll
+G:\Benefit\Web\bin\Web.pdb
+G:\Benefit\Web\obj\Debug\Web.dll
+G:\Benefit\Web\obj\Debug\Web.pdb
+G:\Benefit\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
